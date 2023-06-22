@@ -78,3 +78,12 @@ CPF: 999999999, Nome: joão correa, Endereço: Rua itaipu, 444, Telefone: (12) 1
 CPF: 22222222222, Nome: carlos andre , Endereço: travessa 3, 1111, Telefone: (46) 1111-1111, E-mail: carlos@email.com, Empresa_Parceira_CNPJ: 7677674647669, Área_ID: 1
 
 
+# Tecnologias utilizadas :
+Diagram,
+Word
+
+# Status : Finalizado
+
+## Aron Augusto Bernardo Silva
+
+
