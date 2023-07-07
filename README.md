@@ -9,7 +9,7 @@ sobre tecnologias utilizadas, empresas parceiras, áreas e colaboradores .
 ## Modelagem Lógica
 ![modelagem logica](https://github.com/Aron151281/modelagem/assets/132007858/f8055bdf-0e1b-4320-b752-c77580ce9d20)
 
-
+[label](<../../../../Downloads/texto readme.md.docx>)
 O arquivo Excel disponível neste repositório contém a modelagem do banco de dados do sistema RESILIADATA. Ele inclui as seguintes tabelas e seus respectivos campos:
 
  ## Empresas Parceiras:
